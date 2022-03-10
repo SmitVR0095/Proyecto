@@ -1,4 +1,2 @@
 # Proyecto
-Aquí se realizara proyectos de todo tipo
-El objetivo de esta carpeta es que el público en general vea los proyecto que realizo de forma gratui y se entero de lo que hago
-Comenzare haciendo proyectos en Excel y mas adelante  lo hare en nuvos programas como excel
+El objetivo de esta carpeta es que me conozcan y vean los proyectos realizados por mi persona de forma gratuita, mis primeros proyectos lo hare en excael pero mas adelante lo hare en python. espero que sea de su agrado.
